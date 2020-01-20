@@ -1,4 +1,4 @@
-# nodejs_codesignal
+# NodeJS and CodeSignal exercises
 [CodeSignal's](https://codesignal.com/) own solutions writen in NodeJS just for *learning purposes*.
 
 There's a folder for every exercise where the *solution.js* is the one that contains the requiered code for CodeSignal, also it may contain other files as:
